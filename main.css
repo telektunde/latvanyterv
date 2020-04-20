@@ -53,8 +53,8 @@ body {
   background-color: #cce4f4;
 }
 #logo {
-  width: 50vw;
-  margin: 0vw 25vw;
+  width: 60vw;
+  margin: 0vw 20vw;
 }
 img {
   width: 100vw;
@@ -85,6 +85,7 @@ h3 {
   width: 100vw;
   padding: 4vw;
   color: #204c5c;
+  line-height: 150%;
 }
 p {
   font-size: 1rem;
@@ -92,6 +93,7 @@ p {
   width: 100vw;
   padding: 0 10vw 6vh 10vw;
   color: #204c5c;
+  line-height: 150%;
 }
 .ikonok img {
   width: 60vw;
