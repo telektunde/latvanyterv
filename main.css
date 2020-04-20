@@ -45,7 +45,6 @@ table {
 }
 
 body {
-  width: 100vw;
   background-color: #cce4f4;
 }
 img {
@@ -60,7 +59,7 @@ img {
   align-content: center;
   height: 7vh;
   color: #204c5c;
-  font-size: 2rem;
+  font-size: 1.5rem;
   margin: 1vw 15vw;
 }
 .button:hover {
