@@ -38,6 +38,7 @@ img {
   color: #204c5c;
   margin: 1vw 15vw;
   font-size: 2.5rem;
+  border-radius: 20px;
 }
 .button:hover {
   background-color: #cce4f4;
