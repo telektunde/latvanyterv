@@ -41,7 +41,7 @@ img {
   height: 8vh;
   color: #204c5c;
   margin: 1vw 15vw;
-  font-size: 1em;
+  font-size: 14px;
   border-radius: 10px;
 }
 .button:hover {
