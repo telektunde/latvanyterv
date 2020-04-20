@@ -50,15 +50,16 @@ body {
 }
 img {
   width: 100vw;
+  margin: 0 1vw;
   height: auto;
-  border: solid 1vh white;
+  border: solid 0.5vh white;
 }
 .button {
-  background: #204c5c;
+  background-color: #6facc9;
   width: 70vw;
   align-content: center;
   height: 7vh;
-  color: #cce4f4;
+  color: #204c5c;
   font-size: 2rem;
   margin: 1vw 15vw;
 }
