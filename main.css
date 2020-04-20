@@ -37,6 +37,7 @@ img {
   height: 8vh;
   color: #204c5c;
   margin: 1vw 15vw;
+  font-size: 2em;
 }
 .button:hover {
   background-color: #cce4f4;
