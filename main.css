@@ -67,7 +67,7 @@ img {
   align-content: center;
   height: 8vh;
   color: #204c5c;
-  margin: 1vh 15vw 5vh 15vw;
+  margin: 0vh 15vw 2vh 15vw;
   font-size: 1.3rem;
   border-radius: 10px;
   border-style: none;
@@ -86,7 +86,7 @@ h3 {
   font-size: 1.5rem;
   text-align: center;
   width: 100vw;
-  padding: 4vw;
+  padding: 0vw 4vw 4vw ;
   color: #204c5c;
   line-height: 150%;
 }
@@ -99,8 +99,8 @@ p {
   line-height: 150%;
 }
 .ikonok img {
-  width: 60vw;
-  margin: 0vw 20vw;
+  width: 40vw;
+  margin: 0vw 30vw;
 }
 .hullam {
   width: 50%;
