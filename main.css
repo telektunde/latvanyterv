@@ -60,7 +60,6 @@ img {
   width: 100vw;
   margin: 0 1vw;
   height: auto;
-  border: solid 0.5vh white;
 }
 .button {
   background-color: #6facc9;
@@ -71,10 +70,14 @@ img {
   margin: 1vh 15vw 5vh 15vw;
   font-size: 1.3rem;
   border-radius: 10px;
+  border-style: none;
 }
 .button:hover {
   background-color: #cce4f4;
   color: #204c5c;
+}
+.tunetcsoportok button {
+    margin: 0vh 15vw 2vh 15vw;
 }
 .text {
   align-content: center;
@@ -91,11 +94,16 @@ p {
   font-size: 1rem;
   text-align: center;
   width: 100vw;
-  padding: 0 10vw 6vh 10vw;
+  padding: 0 10vw 4vw 10vw;
   color: #204c5c;
   line-height: 150%;
 }
 .ikonok img {
   width: 60vw;
   margin: 0vw 20vw;
+}
+.hullam {
+  width: 50%;
+  margin-left: 25%;
+  margin-bottom: 2%;
 }
