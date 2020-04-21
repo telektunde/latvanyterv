@@ -77,7 +77,10 @@ img {
   color: #204c5c;
 }
 .tunetcsoportok button {
-    margin: 0vh 15vw 2vh 15vw;
+  margin: 0vh 15vw 2vh 15vw;
+}
+.pictures {
+  margin: 3vh 0vw 0vh 0vw;
 }
 .text {
   align-content: center;
@@ -100,10 +103,15 @@ p {
 }
 .ikonok img {
   width: 40vw;
-  margin: 0vw 30vw;
+  margin: 2vw 30vw;
 }
 .hullam {
   width: 50%;
   margin-left: 25%;
   margin-bottom: 2%;
+}
+.art {
+  width: 80vw;
+  margin: 0 10vw 0vw 10vw;
+  height: auto;
 }
