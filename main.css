@@ -60,12 +60,12 @@ span {
 }
 #menu {
   width: 10vw;
-  margin: 3vh 3vw 0vh 1vw;
+  margin: 3vh 3vw 0vh 0vw;
   display: inline;
 }
 #logo {
   width: 80vw;
-  margin: 5vh 0vw 0vw 5vw;
+  margin: 5vh 0vw 0vw 4vw;
   display: inline;
 }
 img {
